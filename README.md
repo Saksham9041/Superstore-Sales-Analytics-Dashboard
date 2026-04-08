@@ -46,17 +46,6 @@ This project presents an interactive **Sales Analytics Dashboard** built using P
 ![Dashboard Screenshot](dashboard.png)
 
 
-
-📂 Project Structure
-
-
-├── SuperStore_Sales_Dashboard.pbix   # Power BI dashboard file
-├── dataset.csv                       # Dataset used
-├── dashboard.png                     # Dashboard screenshot
-└── README.md                         # Project documentation
-
-
-
 ⚙️ Workflow
 
 1. Data Collection & Cleaning (Python, Excel)
